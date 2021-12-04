@@ -1,4 +1,4 @@
-package Day04
+package Day4
 
 import readInput
 fun main() {
@@ -153,8 +153,8 @@ fun main() {
     }
 
 
-    val testInput = readInput("Day04/Day04_test")
-    val input = readInput("Day04/Day04")
+    val testInput = readInput("Day4/Day04_test")
+    val input = readInput("Day4/Day04")
 
     println(part1(testInput))
     println(part1(input))
